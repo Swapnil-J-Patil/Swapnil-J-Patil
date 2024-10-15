@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--rwfbkVgA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x88nwrvshk9eqt61g9bd.png">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🌱 I’m currently learning **Jetpack compose and KMM.**
+- 🌱 I’m currently learning **Jetpack compose and KMP.**
 
 - 💬 Ask me about **Android**
 
