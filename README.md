@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=1000&height=70&lines=Hi%2C+I'm+Swapnil%2C+your+friendly+neighborhood+developer!)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/e957cd5c-761c-4420-870d-c9b002aa0b03">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/0d1b6fa3-1965-42cb-ba1e-70cc5ba39c9c">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 - 🌱 I’m currently learning **Jetpack compose and KMP.**
