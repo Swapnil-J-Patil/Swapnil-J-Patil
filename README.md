@@ -65,11 +65,6 @@
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-      </a>
-    </td>
   </tr>
 </table>
 <br>
